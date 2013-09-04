@@ -9,3 +9,15 @@ ly-statistics
 type:
 
   * csv
+
+  * json
+
+ly-law-record
+====
+立法院 - 會議紀要
+
+type:
+ 
+  * csv
+
+  * json
