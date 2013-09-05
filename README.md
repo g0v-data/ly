@@ -2,7 +2,7 @@ ly
 ====
 立法院相關資料開放
 
-All data generated with g0v/twlyparser
+All data generated with [g0v/twlyparser](https://github.com/g0v/twlyparser) and [g0v/api.ly](https://github.com/g0v/api.ly).
 
 ly-statistics
 ====
